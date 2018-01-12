@@ -1,0 +1,13 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "bin": {
+    "liri": "./liri.js"
+  },
+  "description": "Bootcamp Homework.",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.71.0",
+    "twitter": "^1.2.5",
+    "spotify": "^0.3.0"
+  }
